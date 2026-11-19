@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "id": "touch-evidence-01",
+      "point_team": "home",
+      "marks": [
+        {
+          "observer": "a",
+          "team": "away"
+        },
+        {
+          "observer": "b",
+          "team": "home"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "fact_id": "lineup-spells-01",
+    "lineups": [
+      {
+        "serve": 1,
+        "players": [
+          "p1",
+          "p2"
+        ]
+      },
+      {
+        "serve": 2,
+        "players": [
+          "p1",
+          "p3"
+        ]
+      }
+    ]
+  }
+]

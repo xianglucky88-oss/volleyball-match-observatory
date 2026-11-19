@@ -1,0 +1,27 @@
+{
+  "records": [
+    {
+      "id": "annotation-agreement-01",
+      "tolerance_ms": 20,
+      "left": [
+        {
+          "mark": "1",
+          "label": "serve",
+          "onset_ms": 10
+        },
+        {
+          "mark": "2",
+          "label": "block",
+          "onset_ms": 50
+        }
+      ],
+      "right": [
+        {
+          "mark": "1",
+          "label": "receive",
+          "onset_ms": 45
+        }
+      ]
+    }
+  ]
+}

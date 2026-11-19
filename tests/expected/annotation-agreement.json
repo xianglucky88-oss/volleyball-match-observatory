@@ -1,0 +1,14 @@
+[
+  {
+    "fact_id": "annotation-agreement-01",
+    "issues": {
+      "1": [
+        "label",
+        "onset"
+      ],
+      "2": [
+        "missing"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "records": [
+    {
+      "id": "setter-choices-01",
+      "plays": [
+        {
+          "receive_quality": "good",
+          "action": "set"
+        },
+        {
+          "receive_quality": "good",
+          "action": "direct"
+        },
+        {
+          "receive_quality": "poor",
+          "action": "unknown"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "fact_id": "setter-choices-01",
+    "by_quality": {
+      "good": {
+        "direct": 1,
+        "set": 1,
+        "unknown": 0
+      },
+      "poor": {
+        "direct": 0,
+        "set": 0,
+        "unknown": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "fact_id": "receive-zones-01",
+    "player": "p1",
+    "zone_counts": [
+      1,
+      1,
+      1
+    ],
+    "unknown": 1
+  }
+]

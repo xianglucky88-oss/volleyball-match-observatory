@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "id": "lineup-spells-01",
+      "starting_players": [
+        "p1",
+        "p2"
+      ],
+      "serves": [
+        {
+          "serve": 1
+        },
+        {
+          "serve": 2
+        }
+      ],
+      "swaps": [
+        {
+          "before_serve": 2,
+          "out": "p2",
+          "in": "p3"
+        }
+      ]
+    }
+  ]
+}

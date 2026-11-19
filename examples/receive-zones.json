@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "id": "receive-zones-01",
+      "player": "p1",
+      "receptions": [
+        {
+          "x": 0
+        },
+        {
+          "x": 3
+        },
+        {
+          "x": 9
+        },
+        {
+          "x": null
+        }
+      ]
+    }
+  ]
+}
